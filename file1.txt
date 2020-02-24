@@ -1,2 +1,4 @@
 Line in project v.0.1
 Line in project v.0.4
+Line in project v.0.6
+Line in project v.0.7
